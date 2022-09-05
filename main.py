@@ -2,7 +2,7 @@ import random
 
 from aiogram.utils import executor
 from config import dp
-from handlers import client, callbak, extra, admin, fsm_menu, natification,inline
+from handlers import client, callbak, extra, admin, fsm_menu, natification, inline
 from database import bot_db
 import logging
 import asyncio
@@ -11,7 +11,7 @@ import asyncio
 async def on_startup(_):
     asyncio.create_task(natification.time())
     bot_db.sql_create()
-inline.register_handler_inlane(dp)
+inline.register_handler_inline(dp)
 fsm_menu.register_handler_fsmmenu(dp)
 client.register_handlers_client(dp)
 callbak.register__handlers_callback(dp)

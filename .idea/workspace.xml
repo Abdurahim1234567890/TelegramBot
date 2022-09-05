@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0374ad-e436-496c-87c3-9e4370af4872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../telegrambot/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../telegrambot/handlers/inline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegrambot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../telegrambot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/handlers/inline.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/handlers/inline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../telegrambot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegrambot/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
       <workItem from="1662369182005" duration="556000" />
       <workItem from="1662374314722" duration="202000" />
       <workItem from="1662374862963" duration="255000" />
-      <workItem from="1662375178416" duration="3292000" />
+      <workItem from="1662375178416" duration="3649000" />
     </task>
     <servers />
   </component>

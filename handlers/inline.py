@@ -27,7 +27,3 @@ async def inliane_wikipedia_handler(query: types.InlineQuery, link=None):
 
 def register_handler_inline(dp: Dispatcher):
     dp.register_inline_handler(inliane_wikipedia_handler)
-
-
-def register_handler_inlane(dp):
-    return None
